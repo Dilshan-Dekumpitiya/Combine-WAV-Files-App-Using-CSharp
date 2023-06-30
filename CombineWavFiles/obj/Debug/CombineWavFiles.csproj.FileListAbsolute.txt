@@ -1,0 +1,44 @@
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\CombineWavFiles.exe.config
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\CombineWavFiles.exe
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\CombineWavFiles.pdb
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\Microsoft.Win32.Registry.dll
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.Asio.dll
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.Core.dll
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.dll
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.Midi.dll
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.Wasapi.dll
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.WinForms.dll
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.WinMM.dll
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\System.Security.AccessControl.dll
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\System.Security.Principal.Windows.dll
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\Microsoft.Win32.Registry.xml
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.xml
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\System.Security.AccessControl.xml
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\bin\Debug\System.Security.Principal.Windows.xml
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\obj\Debug\CombineWavFiles.csproj.AssemblyReference.cache
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\obj\Debug\CombineWavFiles.csproj.CoreCompileInputs.cache
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\obj\Debug\CombineWavFiles.csproj.CopyComplete
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\obj\Debug\CombineWavFiles.exe
+D:\My Projects\Vox File to Wav File Converter using C sharp\VoxtoWavConverter\CombineWavFiles\CombineWavFiles\obj\Debug\CombineWavFiles.pdb
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\CombineWavFiles.exe.config
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\CombineWavFiles.exe
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\CombineWavFiles.pdb
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\Microsoft.Win32.Registry.dll
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.Asio.dll
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.Core.dll
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.dll
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.Midi.dll
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.Wasapi.dll
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.WinForms.dll
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.WinMM.dll
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\System.Security.AccessControl.dll
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\System.Security.Principal.Windows.dll
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\Microsoft.Win32.Registry.xml
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\NAudio.xml
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\System.Security.AccessControl.xml
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\bin\Debug\System.Security.Principal.Windows.xml
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\obj\Debug\CombineWavFiles.csproj.AssemblyReference.cache
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\obj\Debug\CombineWavFiles.csproj.CoreCompileInputs.cache
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\obj\Debug\CombineWavFiles.csproj.CopyComplete
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\obj\Debug\CombineWavFiles.exe
+D:\My Projects\Combine Wav Files using C sharp\CombineWavFiles\CombineWavFiles\obj\Debug\CombineWavFiles.pdb
